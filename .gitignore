@@ -1,0 +1,8 @@
+.mypy_cache/
+.venv/
+dist/
+*.egg-info
+__pycache__
+.idea/
+*.back
+*.log
